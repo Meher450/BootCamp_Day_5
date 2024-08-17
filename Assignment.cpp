@@ -137,8 +137,8 @@ public:
     }
 
 private:
-    std::vector<Book> books;   // Collection of physical books
-    std::vector<EBook> ebooks; // Collection of ebooks
+    std::vector<Book> books;  
+    std::vector<EBook> ebooks;
 };
 
 int main() {
